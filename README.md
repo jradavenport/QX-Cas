@@ -12,7 +12,7 @@
 *Figure 2 from the JAAVSO review*
 
 
-## But wait... 
-TESS Sector 18 saw something
-![](mast1.png)
-![](mast2.png)
+## But wait...
+TESS Sector 18 (and now Sector 24) saw *three* periods!
+
+![](periodogram.png)
